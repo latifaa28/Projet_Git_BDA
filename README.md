@@ -1,6 +1,7 @@
 # * projet git BDA latifa derouiche *
 ## description 
 Ce projet permet d'effectuer des calculs commerciaux facilement.
+Ce projet est une application Python pour la gestion commerciale.
 
 ## Les programmes:
 - marge.py : calcul de la marge commerciale.
