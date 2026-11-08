@@ -10,3 +10,12 @@ Ce projet est une boite a outils de gestion commerciale en Python.
 
 ## Le language utlisé:
 python
+
+## Utilisation:
+
+Pour executer un programme, ouvrir le terminal et taper :
+
+- python marge.py
+- python tva.py
+- python interets.py
+- python ventes.py
